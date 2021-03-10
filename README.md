@@ -1,2 +1,0 @@
-# python-practise
-practise-python
